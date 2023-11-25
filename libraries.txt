@@ -4,3 +4,6 @@
 # Automatically added based on includes:
 LiquidCrystal
 Adafruit LiquidCrystal
+LiquidCrystal I2C
+TinyLiquidCrystal_I2C
+SM_LCDAdapter
